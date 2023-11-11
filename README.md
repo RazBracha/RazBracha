@@ -1,2 +1,2 @@
-Hi there (:
-I'm Raz.
+Hi there 🙋
+I'm Raz 
