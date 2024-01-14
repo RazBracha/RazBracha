@@ -1,4 +1,4 @@
-## 👋 Hello, World! I'm Raz!
+## 👋 Hello, World! I'm Raz 👩🏽‍🦱
 
 I'm a passionate and creative Full-Stack Engineer with a knack for turning ideas into reality. My code is my canvas, and I enjoy bringing innovative web applications to life. 🚀
 
