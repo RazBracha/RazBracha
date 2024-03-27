@@ -3,7 +3,7 @@
 I'm a passionate and creative Full-Stack Engineer with a knack for turning ideas into reality. My code is my canvas, and I enjoy bringing innovative web applications to life. 🚀
 
 ### 💻 Tech Stack
-- Frontend: HTML, CSS, JavaScript (React.js)
+- Frontend: HTML, CSS, JavaScript (React.js & React Native)
 - Backend: Node.js, Python, C#, C++
 - Database: MongoDB, Firebase, PostgreSQL
 - Tools: Git, Docker
